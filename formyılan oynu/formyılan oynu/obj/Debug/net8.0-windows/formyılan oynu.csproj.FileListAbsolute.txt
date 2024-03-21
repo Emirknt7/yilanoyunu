@@ -1,0 +1,16 @@
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\bin\Debug\net8.0-windows\formyılan oynu.exe
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\bin\Debug\net8.0-windows\formyılan oynu.deps.json
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\bin\Debug\net8.0-windows\formyılan oynu.runtimeconfig.json
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\bin\Debug\net8.0-windows\formyılan oynu.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\bin\Debug\net8.0-windows\formyılan oynu.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan_oynu.Form1.resources
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.csproj.GenerateResource.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.AssemblyInfoInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.AssemblyInfo.cs
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\refint\formyılan oynu.dll
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\formyılan oynu.genruntimeconfig.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\formyılan oynu\formyılan oynu\obj\Debug\net8.0-windows\ref\formyılan oynu.dll

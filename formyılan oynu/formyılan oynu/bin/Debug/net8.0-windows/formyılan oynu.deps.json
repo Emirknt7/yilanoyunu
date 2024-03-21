@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "formyılan oynu/1.0.0": {
+        "runtime": {
+          "formyılan oynu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "formyılan oynu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
